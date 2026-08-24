@@ -29,7 +29,7 @@ Some of my projects have included:
 Linux       ████████████████████
 Docker      ███████████████████░
 Javascript  ██████████████████░░
-PHP 		█████████████████░░░
+PHP         █████████████████░░░
 MariaDB     ████████████████░░░░
 ```
 
